@@ -1,5 +1,6 @@
 {
   "nav": {
+    "home": "Trang chủ",
     "docs": "Tài liệu",
     "blog": "Blog",
     "tools": "Công cụ",
@@ -38,7 +39,7 @@
     "technicalLearning": "Học kỹ thuật",
     "technicalLearningDesc": "Hướng dẫn thực hành dành cho lập trình viên và người mới bắt đầu."
   },
-  
+
   "CTA": {
     "title": "Bạn có dự án nào trong đầu không?",
     "cta": "Liên hệ"
