@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "docs": "Tài liệu",
+    "blog": "Blog",
+    "tools": "Công cụ",
+    "services": "Dịch vụ",
+    "cooperate": "Hợp tác"
+  },
+  "hero": {
+    "title": "Xây dựng AI. Học công nghệ. Tự động hóa công việc.",
+    "subtitle": "Tôi giúp cá nhân và doanh nghiệp ứng dụng công nghệ hiện đại.",
+    "cta": "Khám phá tài liệu",
+    "cooperate": "Hợp tác"
+  },
+  "Services": {
+    "title": "Dịch vụ của chúng tôi",
+    "description": "Chúng tôi cung cấp giải pháp công nghệ hiện đại cho doanh nghiệp.",
+    "items": {
+      "web": {
+        "title": "Phát triển Web",
+        "desc": "Xây dựng ứng dụng web hiện đại và mở rộng tốt."
+      },
+      "mobile": {
+        "title": "Ứng dụng Mobile",
+        "desc": "Ứng dụng iOS và Android cho doanh nghiệp."
+      },
+      "ai": {
+        "title": "Giải pháp AI",
+        "desc": "Tự động hóa và hệ thống thông minh."
+      }
+    }
+  },
+  "Features": {
+    "aiAutomation": "Tự động hóa AI",
+    "aiAutomationDesc": "Tự động hóa quy trình làm việc và tích hợp AI vào doanh nghiệp của bạn.",
+    "webDevelopment": "Phát triển Web",
+    "webDevelopmentDesc": "Ứng dụng web hiện đại với kiến trúc có thể mở rộng.",
+    "technicalLearning": "Học kỹ thuật",
+    "technicalLearningDesc": "Hướng dẫn thực hành dành cho lập trình viên và người mới bắt đầu."
+  },
+  
+  "CTA": {
+    "title": "Bạn có dự án nào trong đầu không?",
+    "cta": "Liên hệ"
+  },
+
+  "About": {
+    "title": "Về chúng tôi",
+     "description": "Tôi là Trung Tiến, một nhà phát triển tập trung vào AI, tự động hóa và công nghệ web hiện đại. Tôi xây dựng các giải pháp thực tế giúp cá nhân và doanh nghiệp tận dụng công nghệ một cách hiệu quả."
+  }
+}

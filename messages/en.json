@@ -1,0 +1,54 @@
+{
+  "nav": {
+    "docs": "Docs",
+    "blog": "Blog",
+    "tools": "Tools",
+    "services": "Services",
+    "cooperate": "Cooperate"
+  },
+  "hero": {
+    "title": "Build AI. Learn Tech. Automate Work.",
+    "subtitle": "I help individuals and businesses leverage modern technology.",
+    "cta": "Explore Docs",
+    "cooperate": "Cooperate"
+  },
+  "Services": {
+    "title": "Our Services",
+    "description": "We provide modern technology solutions for businesses.",
+    "items": {
+      "web": {
+        "title": "Web Development",
+        "desc": "Build modern and scalable web applications."
+      },
+      "mobile": {
+        "title": "Mobile Apps",
+        "desc": "iOS and Android applications for your business."
+      },
+      "ai": {
+        "title": "AI Solutions",
+        "desc": "Automation and intelligent systems."
+      }
+    }
+  },
+
+  "Features": {
+    "aiAutomation": "AI Automation",
+    "aiAutomationDesc": "Automate workflows and integrate AI into your business.",
+
+    "webDevelopment": "Web Development",
+    "webDevelopmentDesc": "Build modern and scalable web applications.",
+
+    "technicalLearning": "Technical Learning",
+    "technicalLearningDesc": "Learn and master modern technologies."
+  },
+
+  "CTA": {
+    "title": "Have a project in mind?",
+    "cta": "Contact Us"
+  },
+
+  "About": {
+    "title": "About Me",
+    "description": "I'm Trung Tien, a developer focused on AI, automation, and modern web technologies. I build practical solutions that help individuals and businesses leverage technology effectively."
+  }
+}
