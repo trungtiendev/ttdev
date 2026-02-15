@@ -8,10 +8,12 @@
     "cooperate": "Cooperate"
   },
   "hero": {
-    "title": "Build AI. Learn Tech. Automate Work.",
-    "subtitle": "I help individuals and businesses leverage modern technology.",
-    "cta": "Explore Docs",
-    "cooperate": "Cooperate"
+    "badge": "AI Engineer & Fullstack Developer",
+    "title": "Build AI & Web systems that generate income automatically",
+    "description": "I help individuals and businesses automate workflows, build scalable web systems, and leverage modern AI technology.",
+    "start": "Start a Project",
+    "learn": "Read Docs",
+    "proof": "Trusted by founders, creators and startups."
   },
   "Services": {
     "title": "Our Services",
