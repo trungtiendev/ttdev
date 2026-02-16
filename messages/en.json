@@ -5,7 +5,8 @@
     "blog": "Blog",
     "tools": "Tools",
     "services": "Services",
-    "cooperate": "Cooperate"
+    "cooperate": "Cooperate",
+    "soon": "Soon"
   },
   "hero": {
     "badge": "AI Engineer & Fullstack Developer",
@@ -15,22 +16,24 @@
     "learn": "Read Docs",
     "proof": "Trusted by founders, creators and startups."
   },
-  "Services": {
-    "title": "Our Services",
-    "description": "We provide modern technology solutions for businesses.",
-    "items": {
-      "web": {
-        "title": "Web Development",
-        "desc": "Build modern and scalable web applications."
-      },
-      "mobile": {
-        "title": "Mobile Apps",
-        "desc": "iOS and Android applications for your business."
-      },
-      "ai": {
-        "title": "AI Solutions",
-        "desc": "Automation and intelligent systems."
-      }
+  "services": {
+    "title": "Services I Provide",
+    "subtitle": "Technology solutions to automate workflows, save time and increase revenue.",
+    "learnMore": "Learn more",
+
+    "automation": {
+      "title": "AI Automation",
+      "desc": "Automate business workflows using AI, chatbots and intelligent systems."
+    },
+
+    "web": {
+      "title": "Web Development",
+      "desc": "Build websites, SaaS platforms and custom management systems."
+    },
+
+    "consulting": {
+      "title": "Tech Consulting",
+      "desc": "Technology consulting, system architecture and AI strategy."
     }
   },
 
@@ -53,5 +56,220 @@
   "About": {
     "title": "About Me",
     "description": "I'm Trung Tien, a developer focused on AI, automation, and modern web technologies. I build practical solutions that help individuals and businesses leverage technology effectively."
+  },
+
+  "automationPage": {
+    "title": "AI Automation Services",
+    "subtitle": "Automate your workflows, save time, and increase revenue with modern AI technology.",
+    "cta": "Contact Now",
+
+    "benefits": {
+      "1": {
+        "title": "Save Time",
+        "desc": "Reduce manual tasks with intelligent automation systems."
+      },
+      "2": {
+        "title": "Reduce Costs",
+        "desc": "Replace repetitive human work with efficient AI solutions."
+      },
+      "3": {
+        "title": "Increase Productivity",
+        "desc": "Faster processes with higher accuracy and reliability."
+      }
+    },
+
+    "pricing": {
+      "title": "Pricing Plans",
+      "subtitle": "Flexible costs depending on your business needs",
+
+      "basic": {
+        "title": "Basic",
+        "price": "$80 — $160",
+        "desc": "Simple automation setup for small tasks."
+      },
+      "pro": {
+        "title": "Pro",
+        "price": "$200 — $400",
+        "desc": "Advanced workflows with integrations."
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "price": "Contact us",
+        "desc": "Large-scale automation systems for businesses."
+      }
+    },
+
+    "process": {
+      "title": "Working Process",
+      "1": {
+        "title": "Consultation",
+        "desc": "We understand your requirements and goals."
+      },
+      "2": {
+        "title": "Planning",
+        "desc": "We design the most suitable solution."
+      },
+      "3": {
+        "title": "Development",
+        "desc": "We build and test the automation system."
+      },
+      "4": {
+        "title": "Delivery",
+        "desc": "We deploy and guide you to use it effectively."
+      }
+    },
+
+    "final": {
+      "title": "Ready to automate your business?",
+      "subtitle": "Contact us today for a free consultation."
+    }
+  },
+
+  "contactPage": {
+    "title": "Ready to automate your business?",
+    "subtitle": "Tell us your needs — we'll propose the best AI solution to save your time and increase revenue.",
+    "cta": "Get Free Consultation",
+
+    "form": {
+      "title": "Send us a message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "phone": "Phone / Zalo",
+      "business": "Business Type",
+      "budget": "Budget Range",
+      "message": "Tell us about your project",
+      "submit": "Get My Solution",
+      "budgetOptions": {
+        "1": "$100 — $300",
+        "2": "$300 — $500",
+        "3": "$500+"
+      }
+    },
+
+    "direct": {
+      "title": "Or contact us directly",
+      "email": "Email",
+      "phone": "Phone",
+      "meeting": "Book a Meeting"
+    },
+
+    "why": {
+      "title": "Why work with us?",
+      "1": "Custom AI solutions tailored to your needs",
+      "2": "Fast deployment and reliable support",
+      "3": "Cost-effective automation strategies",
+      "4": "Long-term partnership mindset"
+    },
+
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "1": {
+        "q": "How much does automation cost?",
+        "a": "Pricing depends on complexity. Most projects range from $100 to $500."
+      },
+      "2": {
+        "q": "How long does implementation take?",
+        "a": "Typically 7–14 days depending on requirements."
+      },
+      "3": {
+        "q": "Do you provide support after delivery?",
+        "a": "Yes, we provide training and ongoing support."
+      }
+    },
+
+    "final": {
+      "title": "Let's build your automation system today",
+      "subtitle": "Free consultation — no commitment.",
+      "cta": "Contact Now"
+    }
+  },
+
+  "toolsPage": {
+    "badge": "AI-Powered Tools",
+    "title": "Supercharge Your Workflow",
+    "subtitle": "Professional AI tools to automate your work, generate content, and boost productivity.",
+    "freeTry": "Free to try",
+    "noSignup": "No signup required",
+    "instantResults": "Instant results",
+    "allCategory": "All",
+    "needCustomTool": "Need a Custom Tool?",
+    "customToolDesc": "I can build custom AI tools tailored to your specific business needs.",
+    "contactMe": "Contact Me",
+    "backToTools": "Back to Tools",
+    "features": "Features",
+    "proTips": "Pro Tips",
+    "tip1": "Be specific with your requirements",
+    "tip2": "Include context for better results",
+    "tip3": "Try different variations",
+    "needHelp": "Need Help?",
+    "needHelpDesc": "Contact me for custom AI solutions tailored to your business.",
+    "comingSoon": "Coming Soon",
+    "comingSoonDesc": "This tool is under development and will be available soon. Stay tuned!",
+    "close": "Close",
+    "notifyMe": "Get notified",
+    "notifyDesc": "Contact us to be notified when this feature is available.",
+    "getNotified": "Get Notified",
+    
+    "categories": {
+      "all": "All",
+      "aiwriting": "AI Writing",
+      "marketing": "Marketing",
+      "development": "Development",
+      "aiautomation": "AI Automation",
+      "aiart": "AI Art"
+    },
+    
+    "tools": {
+      "promptGenerator": "Prompt Generator",
+      "promptGeneratorDesc": "Create powerful AI prompts instantly",
+      "promptGeneratorLongDesc": "Generate optimized prompts for ChatGPT, Claude, and other AI models. Get better results with professionally crafted prompts.",
+      "seoGenerator": "SEO Generator",
+      "seoGeneratorDesc": "Generate SEO ideas with AI",
+      "seoGeneratorLongDesc": "Create SEO-optimized content, meta descriptions, and keyword suggestions powered by AI.",
+      "contentWriter": "Content Writer",
+      "contentWriterDesc": "AI-powered content creation",
+      "contentWriterLongDesc": "Generate blog posts, articles, and marketing copy with AI assistance.",
+      "codeAssistant": "Code Assistant",
+      "codeAssistantDesc": "Generate and explain code snippets",
+      "codeAssistantLongDesc": "Get help with coding tasks, debugging, and code explanations.",
+      "chatbotBuilder": "Chatbot Builder",
+      "chatbotBuilderDesc": "Build custom AI chatbots",
+      "chatbotBuilderLongDesc": "Create and customize AI chatbots for your website or application.",
+      "imagePrompt": "Image Prompt",
+      "imagePromptDesc": "Generate prompts for AI image tools",
+      "imagePromptLongDesc": "Create detailed prompts for Midjourney, DALL-E, and Stable Diffusion."
+    },
+    
+    "toolFeatures": {
+      "multiplePromptStyles": "Multiple prompt styles",
+      "copyToClipboard": "Copy to clipboard",
+      "instantGeneration": "Instant generation",
+      "metaDescriptions": "Meta descriptions",
+      "keywordSuggestions": "Keyword suggestions",
+      "contentOptimization": "Content optimization",
+      "blogPosts": "Blog posts",
+      "marketingCopy": "Marketing copy",
+      "socialMediaContent": "Social media content",
+      "codeGeneration": "Code generation",
+      "bugFixing": "Bug fixing",
+      "codeExplanation": "Code explanation",
+      "customTraining": "Custom training",
+      "easyIntegration": "Easy integration",
+      "multiLanguage": "Multi-language",
+      "stylePresets": "Style presets",
+      "detailEnhancement": "Detail enhancement",
+      "multipleFormats": "Multiple formats"
+    },
+    
+    "promptGenerator": {
+      "label": "What do you want to generate?",
+      "placeholder": "Describe what you want to create...",
+      "tryExample": "Try an example:",
+      "generateButton": "Generate Prompt",
+      "generating": "Generating...",
+      "resultLabel": "Generated Prompt",
+      "copy": "Copy",
+      "copied": "Copied!"
+    }
   }
 }

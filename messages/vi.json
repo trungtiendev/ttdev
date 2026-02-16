@@ -5,7 +5,8 @@
     "blog": "Blog",
     "tools": "Công cụ",
     "services": "Dịch vụ",
-    "cooperate": "Hợp tác"
+    "cooperate": "Hợp tác",
+    "soon": "Sắp có"
   },
   "hero": {
     "badge": "Kỹ sư AI & Fullstack Developer",
@@ -15,22 +16,24 @@
     "learn": "Xem tài liệu",
     "proof": "Trusted by founders, creators and startups."
   },
-  "Services": {
-    "title": "Dịch vụ của chúng tôi",
-    "description": "Chúng tôi cung cấp giải pháp công nghệ hiện đại cho doanh nghiệp.",
-    "items": {
-      "web": {
-        "title": "Phát triển Web",
-        "desc": "Xây dựng ứng dụng web hiện đại và mở rộng tốt."
-      },
-      "mobile": {
-        "title": "Ứng dụng Mobile",
-        "desc": "Ứng dụng iOS và Android cho doanh nghiệp."
-      },
-      "ai": {
-        "title": "Giải pháp AI",
-        "desc": "Tự động hóa và hệ thống thông minh."
-      }
+  "services": {
+    "title": "Dịch vụ tôi cung cấp",
+    "subtitle": "Giải pháp công nghệ giúp bạn tự động hóa, tiết kiệm thời gian và tăng doanh thu.",
+    "learnMore": "Xem chi tiết",
+
+    "automation": {
+      "title": "AI Automation",
+      "desc": "Tự động hóa quy trình làm việc bằng AI, chatbot, workflow thông minh."
+    },
+
+    "web": {
+      "title": "Web Development",
+      "desc": "Xây dựng website, hệ thống SaaS, nền tảng quản lý theo yêu cầu."
+    },
+
+    "consulting": {
+      "title": "Tech Consulting",
+      "desc": "Tư vấn giải pháp công nghệ, kiến trúc hệ thống và chiến lược AI."
     }
   },
   "Features": {
@@ -50,5 +53,208 @@
   "About": {
     "title": "Về chúng tôi",
      "description": "Tôi là Trung Tiến, một nhà phát triển tập trung vào AI, tự động hóa và công nghệ web hiện đại. Tôi xây dựng các giải pháp thực tế giúp cá nhân và doanh nghiệp tận dụng công nghệ một cách hiệu quả."
+  },
+
+  "automationPage": {
+    "title": "Dịch vụ AI Automation",
+    "subtitle": "Tự động hóa công việc, tiết kiệm thời gian và tăng doanh thu bằng công nghệ AI hiện đại.",
+    "cta": "Liên hệ ngay",
+
+    "benefits": {
+      "1": {
+        "title": "Tiết kiệm thời gian",
+        "desc": "Giảm công việc thủ công bằng hệ thống tự động."
+      },
+      "2": {
+        "title": "Giảm chi phí",
+        "desc": "Thay thế nhân sự lặp lại bằng AI."
+      },
+      "3": {
+        "title": "Tăng hiệu suất",
+        "desc": "Quy trình nhanh hơn và chính xác hơn."
+      }
+    },
+
+    "pricing": {
+      "title": "Gói dịch vụ",
+      "subtitle": "Chi phí linh hoạt tùy theo nhu cầu",
+
+      "basic": {
+        "title": "Basic",
+        "price": "2 — 4 triệu",
+        "desc": "Automation đơn giản"
+      },
+      "pro": {
+        "title": "Pro",
+        "price": "5 — 10 triệu",
+        "desc": "Workflow nâng cao"
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "price": "Liên hệ",
+        "desc": "Hệ thống lớn"
+      }
+    },
+
+    "process": {
+      "title": "Quy trình làm việc",
+      "1": { "title": "Trao đổi", "desc": "Hiểu nhu cầu của bạn" },
+      "2": { "title": "Thiết kế", "desc": "Đề xuất giải pháp" },
+      "3": { "title": "Phát triển", "desc": "Xây dựng hệ thống" },
+      "4": { "title": "Bàn giao", "desc": "Hướng dẫn sử dụng" }
+    },
+
+    "final": {
+      "title": "Sẵn sàng tự động hóa công việc?",
+      "subtitle": "Liên hệ để nhận tư vấn miễn phí."
+    }
+  },
+
+  "contactPage": {
+    "title": "Sẵn sàng tự động hóa doanh nghiệp của bạn?",
+    "subtitle": "Hãy cho chúng tôi biết nhu cầu — chúng tôi sẽ đề xuất giải pháp AI tốt nhất giúp bạn tiết kiệm thời gian và tăng doanh thu.",
+    "cta": "Nhận tư vấn miễn phí",
+
+    "form": {
+      "title": "Gửi thông tin cho chúng tôi",
+      "name": "Tên của bạn",
+      "email": "Email",
+      "phone": "Số điện thoại / Zalo",
+      "business": "Loại hình kinh doanh",
+      "budget": "Ngân sách dự kiến",
+      "message": "Mô tả nhu cầu của bạn",
+      "submit": "Nhận giải pháp ngay",
+      "budgetOptions": {
+        "1": "2 — 5 triệu VND",
+        "2": "5 — 10 triệu VND",
+        "3": "Trên 10 triệu VND"
+      }
+    },
+
+    "direct": {
+      "title": "Hoặc liên hệ trực tiếp",
+      "email": "Email",
+      "phone": "Điện thoại",
+      "meeting": "Đặt lịch tư vấn"
+    },
+
+    "why": {
+      "title": "Vì sao nên làm việc với chúng tôi?",
+      "1": "Giải pháp AI thiết kế riêng theo nhu cầu của bạn",
+      "2": "Triển khai nhanh và hỗ trợ đáng tin cậy",
+      "3": "Chi phí tối ưu với hiệu quả cao",
+      "4": "Định hướng hợp tác lâu dài"
+    },
+
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "1": {
+        "q": "Chi phí automation khoảng bao nhiêu?",
+        "a": "Chi phí phụ thuộc vào độ phức tạp. Hầu hết dự án dao động từ 2 đến 10 triệu VNĐ."
+      },
+      "2": {
+        "q": "Thời gian triển khai mất bao lâu?",
+        "a": "Thông thường từ 7–14 ngày tùy theo yêu cầu."
+      },
+      "3": {
+        "q": "Có hỗ trợ sau khi bàn giao không?",
+        "a": "Có. Chúng tôi cung cấp hướng dẫn sử dụng và hỗ trợ lâu dài."
+      }
+    },
+
+    "final": {
+      "title": "Hãy bắt đầu xây dựng hệ thống tự động của bạn ngay hôm nay",
+      "subtitle": "Tư vấn miễn phí — không ràng buộc.",
+      "cta": "Liên hệ ngay"
+    }
+  },
+
+  "toolsPage": {
+    "badge": "Công cụ AI",
+    "title": "Nâng cao hiệu suất làm việc",
+    "subtitle": "Công cụ AI chuyên nghiệp giúp tự động hóa công việc, tạo nội dung và tăng năng suất.",
+    "freeTry": "Dùng thử miễn phí",
+    "noSignup": "Không cần đăng ký",
+    "instantResults": "Kết quả tức thì",
+    "allCategory": "Tất cả",
+    "needCustomTool": "Cần công cụ tùy chỉnh?",
+    "customToolDesc": "Tôi có thể xây dựng công cụ AI tùy chỉnh theo nhu cầu kinh doanh của bạn.",
+    "contactMe": "Liên hệ với tôi",
+    "backToTools": "Quay lại Công cụ",
+    "features": "Tính năng",
+    "proTips": "Mẹo hay",
+    "tip1": "Mô tả cụ thể yêu cầu của bạn",
+    "tip2": "Cung cấp ngữ cảnh để có kết quả tốt hơn",
+    "tip3": "Thử nhiều cách khác nhau",
+    "needHelp": "Cần hỗ trợ?",
+    "needHelpDesc": "Liên hệ để được tư vấn giải pháp AI tùy chỉnh cho doanh nghiệp của bạn.",
+    "comingSoon": "Sắp ra mắt",
+    "comingSoonDesc": "Công cụ này đang được phát triển và sẽ sớm có sẵn. Hãy chờ đón!",
+    "close": "Đóng",
+    "notifyMe": "Nhận thông báo",
+    "notifyDesc": "Liên hệ để được thông báo khi tính năng này có sẵn.",
+    "getNotified": "Nhận Thông Báo",
+    
+    "categories": {
+      "all": "Tất cả",
+      "aiwriting": "AI Writing",
+      "marketing": "Marketing",
+      "development": "Development",
+      "aiautomation": "AI Automation",
+      "aiart": "AI Art"
+    },
+    
+    "tools": {
+      "promptGenerator": "Tạo Prompt",
+      "promptGeneratorDesc": "Tạo prompt AI chuyên nghiệp ngay lập tức",
+      "promptGeneratorLongDesc": "Tạo prompt tối ưu cho ChatGPT, Claude và các mô hình AI khác. Đạt kết quả tốt hơn với prompt được thiết kế chuyên nghiệp.",
+      "seoGenerator": "Tạo SEO",
+      "seoGeneratorDesc": "Tạo ý tưởng SEO với AI",
+      "seoGeneratorLongDesc": "Tạo nội dung tối ưu SEO, mô tả meta và gợi ý từ khóa bằng AI.",
+      "contentWriter": "Viết Nội dung",
+      "contentWriterDesc": "Tạo nội dung bằng AI",
+      "contentWriterLongDesc": "Tạo bài viết blog, bài báo và nội dung marketing với sự hỗ trợ của AI.",
+      "codeAssistant": "Trợ lý Code",
+      "codeAssistantDesc": "Tạo và giải thích code",
+      "codeAssistantLongDesc": "Nhận trợ giúp các tác vụ lập trình, debug và giải thích code.",
+      "chatbotBuilder": "Xây dựng Chatbot",
+      "chatbotBuilderDesc": "Xây dựng chatbot AI tùy chỉnh",
+      "chatbotBuilderLongDesc": "Tạo và tùy chỉnh chatbot AI cho website hoặc ứng dụng của bạn.",
+      "imagePrompt": "Prompt Hình ảnh",
+      "imagePromptDesc": "Tạo prompt cho công cụ hình ảnh AI",
+      "imagePromptLongDesc": "Tạo prompt chi tiết cho Midjourney, DALL-E và Stable Diffusion."
+    },
+    
+    "toolFeatures": {
+      "multiplePromptStyles": "Nhiều kiểu prompt",
+      "copyToClipboard": "Sao chép vào clipboard",
+      "instantGeneration": "Tạo ngay lập tức",
+      "metaDescriptions": "Mô tả meta",
+      "keywordSuggestions": "Gợi ý từ khóa",
+      "contentOptimization": "Tối ưu nội dung",
+      "blogPosts": "Bài viết blog",
+      "marketingCopy": "Nội dung marketing",
+      "socialMediaContent": "Nội dung mạng xã hội",
+      "codeGeneration": "Tạo code",
+      "bugFixing": "Sửa lỗi",
+      "codeExplanation": "Giải thích code",
+      "customTraining": "Huấn luyện tùy chỉnh",
+      "easyIntegration": "Dễ tích hợp",
+      "multiLanguage": "Đa ngôn ngữ",
+      "stylePresets": "Style có sẵn",
+      "detailEnhancement": "Tăng cường chi tiết",
+      "multipleFormats": "Nhiều định dạng"
+    },
+    
+    "promptGenerator": {
+      "label": "Bạn muốn tạo gì?",
+      "placeholder": "Mô tả những gì bạn muốn tạo...",
+      "tryExample": "Thử ví dụ:",
+      "generateButton": "Tạo Prompt",
+      "generating": "Đang tạo...",
+      "resultLabel": "Prompt đã tạo",
+      "copy": "Sao chép",
+      "copied": "Đã sao chép!"
+    }
   }
 }
